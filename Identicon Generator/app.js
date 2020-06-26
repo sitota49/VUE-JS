@@ -12,5 +12,7 @@ new Vue({
         onInput: function(){
             this.inputText= event.target.value;
         }
-    }
+    },
+
+    
 });
